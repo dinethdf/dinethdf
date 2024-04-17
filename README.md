@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 💭 Currently learning about data analytics !<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=dinethdf&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinethdf&show_icons=true&theme=radical)<br/>
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
