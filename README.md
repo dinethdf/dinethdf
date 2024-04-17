@@ -3,7 +3,7 @@ I'm [Dineth Fonseka](https://dinethdfonseka.me/), a passionate self-taught Full-
 
 I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-  <img align="right" alt="GIF" src="https://github.com/dinethdf/dinethdf/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/dinethdf/dinethdf/blob/main/code.gif?raw=true" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:dinethdf23@gmail.com) :)
 - 💬 ask me about anything, I am happy to help;
